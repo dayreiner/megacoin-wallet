@@ -1,19 +1,19 @@
-Dit is een standalone Megacoin Wallet voor uw Android apparaat. U kan direct Megacoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
+Dit is een standalone Vertcoin Wallet voor uw Android apparaat. U kan direct Vertcoins versturen tussen telefoons door simpelweg de QR-code te scannen die de app weergeeft of via NFC (Near Field Communication).
 
 FUNCTIES:
 
-• Weergeven van het wallet saldo in Megacoin en verschillende andere valuta.
-• Verzenden en ontvangen van Megacoin via NFC, QR-codes of Megacoin URLs.
-• Adresboek voor veelgebruikte Megacoin adressen.
+• Weergeven van het wallet saldo in Vertcoin en verschillende andere valuta.
+• Verzenden en ontvangen van Vertcoin via NFC, QR-codes of Vertcoin URLs.
+• Adresboek voor veelgebruikte Vertcoin adressen.
 • Transacties ingeven tijdens het offline zijn, deze zullen worden uitgevoerd wanneer u online komt.
-• Systeem melding over Megacoin connectiviteit en ontvangen Megacoins.
-• Widget voor Megacoin saldo.
+• Systeem melding over Vertcoin connectiviteit en ontvangen Vertcoins.
+• Widget voor Vertcoin saldo.
 
-Voor meer informatie over Megacoin kunt u terecht op
-http://www.megacoin.co.nz/
+Voor meer informatie over Vertcoin kunt u terecht op
+http://www.vertcoin.co.nz/
 
-Als u een bijdrage wil leveren aan Megacoin Wallet, het project is te vinden op
-https://github.com/HashEngineering/megacoin-wallet
+Als u een bijdrage wil leveren aan Vertcoin Wallet, het project is te vinden op
+https://github.com/HashEngineering/vertcoin-wallet
 
 Licentie: GPLv3
 Gebruik op eigen risico!

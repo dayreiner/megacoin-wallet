@@ -1,20 +1,20 @@
-Dengan aplikasi ini Anda selalu mempunyai Megacoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Megacoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
+Dengan aplikasi ini Anda selalu mempunyai Vertcoin dengan Anda, dalam saku Anda! Anda dapat mengirim pembayaran hanya dengan memindai kode-QR atau mendekatkan dua ponsel bersama (NFC). Vertcoin Wallet dirancang untuk mudah digunakan dan diandalkan, sementara juga menjadi lebih aman dan cepat.
 
 FITUR:
 
 • Tidak diperlukan server awan atau layanan web! Dompet ini benar-benar peer ke peer.
-• Tampilkan saldo dompet dalam Megacoin dan mata uang lainnya.
-• Mengirim dan menerima Megacoin via NFC, kode-QR atau Tautan Megacoin.
-• Buku alamat untuk alamat penggunaan Megacoin secara reguler.
+• Tampilkan saldo dompet dalam Vertcoin dan mata uang lainnya.
+• Mengirim dan menerima Vertcoin via NFC, kode-QR atau Tautan Vertcoin.
+• Buku alamat untuk alamat penggunaan Vertcoin secara reguler.
 • Masukkan transaksi saat offline, akan dilaksanakan ketika online.
-• Notifikasi sistem untuk konektivitas Megacoin dan menerima koin.
-• Widget Apl untuk saldo Megacoin.
+• Notifikasi sistem untuk konektivitas Vertcoin dan menerima koin.
+• Widget Apl untuk saldo Vertcoin.
 
-Anda dapat mengetahui lebih mengenai Megacoin di
-http://www.megacoin.co.nz/
+Anda dapat mengetahui lebih mengenai Vertcoin di
+http://www.vertcoin.co.nz/
 
-Jika Anda ingin berkontribusi kepada Megacoin Wallet, proyeknya berada di
-https://github.com/HashEngineering/megacoin-wallet
+Jika Anda ingin berkontribusi kepada Vertcoin Wallet, proyeknya berada di
+https://github.com/HashEngineering/vertcoin-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!

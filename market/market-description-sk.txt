@@ -1,20 +1,20 @@
-Megacoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Megacoin Wallet je prvá mobilná Megacoin aplikácia a preukázateľne aj najbezpečnejšia.
+Vertcoiny vždy so sebou vo svojom vrecku. Jednoduché a rýchle platby pomocou QR kódov. Pre obchodníkov ponúka spoľahlivé a okamžité prijímanie platieb. Vertcoin Wallet je prvá mobilná Vertcoin aplikácia a preukázateľne aj najbezpečnejšia.
 
 FUNKCIE:
 
 • Nie je potrebná žiadna registrácia ani žiadny účet.
-• Zobrazenie zostatku Megacoinov v BTC alebo mBTC.
-• Prepočet hodnoty Megacoinov do viacerých cudzích mien.
-• Posielanie a prijímanie Megacoinov pomocou NFC, QR kódov alebo Megacoin adries.
-• Adresár pre často používané Megacoin adresy.
+• Zobrazenie zostatku Vertcoinov v BTC alebo mBTC.
+• Prepočet hodnoty Vertcoinov do viacerých cudzích mien.
+• Posielanie a prijímanie Vertcoinov pomocou NFC, QR kódov alebo Vertcoin adries.
+• Adresár pre často používané Vertcoin adresy.
 • V offline režime je platba možná aj cez Bluetooth.
-• Notifikácie v stavovej lište pri prijatí Megacoinov.
+• Notifikácie v stavovej lište pri prijatí Vertcoinov.
 • Widget s celkovým zostatkom.
 
-Viac informácií o Megacoine
+Viac informácií o Vertcoine
 http://bitcoin.org
 
-Ak chcete prispieť do projektu Megacoin Wallet nájdete ho na adrese
+Ak chcete prispieť do projektu Vertcoin Wallet nájdete ho na adrese
 https://github.com/schildbach/bitcoin-wallet
 
 Licencia: GPLv3

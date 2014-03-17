@@ -31,7 +31,7 @@ import com.actionbarsherlock.view.Menu;
 import com.actionbarsherlock.view.MenuItem;
 
 
-import de.schildbach.wallet.megacoin.R;
+import de.schildbach.wallet.vertcoin.R;
 
 
 /**

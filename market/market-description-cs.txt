@@ -1,19 +1,19 @@
-Tato aplikace je peněženka s Megacoiny pro systém Android. Můžete posílat Megacoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
+Tato aplikace je peněženka s Vertcoiny pro systém Android. Můžete posílat Vertcoiny mezi telefony prostým naskenováním QR kódu, který je zobrazen aplikací, nebo pomocí NFC (Near Field Communication).
 
 VLASTNOSTI:
 
-• Zobrazení zůstatku peněženky v Megacoinech a několika jiných měnách.
-• Odesílání a přijímání Megacoinů pomocí NFC, QR-kódů, nebo Megacoin adres.
+• Zobrazení zůstatku peněženky v Vertcoinech a několika jiných měnách.
+• Odesílání a přijímání Vertcoinů pomocí NFC, QR-kódů, nebo Vertcoin adres.
 • Adresář pro často používané adresy.
 • Možnost zadávání transakcí v offline režimu, k jejich zpracování dojde po připojení.
-• Oznamování v liště při synchronizaci a při přijetí Megacoinů.
+• Oznamování v liště při synchronizaci a při přijetí Vertcoinů.
 • Widget s celkovým zůstatkem.
 
-Více informací o Megacoinech
-http://www.megacoin.co.nz/
+Více informací o Vertcoinech
+http://www.vertcoin.co.nz/
 
-Pokud chcete přispět do projektu Megacoin Wallet, naleznete jej na adrese
-https://github.com/HashEngineering/Megacoin-wallet
+Pokud chcete přispět do projektu Vertcoin Wallet, naleznete jej na adrese
+https://github.com/HashEngineering/Vertcoin-wallet
 
 License: GPLv3
 Použití pouze na vlastní riziko!

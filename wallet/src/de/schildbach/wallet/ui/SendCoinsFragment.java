@@ -85,7 +85,7 @@ import de.schildbach.wallet.offline.SendBluetoothTask;
 import de.schildbach.wallet.ui.InputParser.StringInputParser;
 import de.schildbach.wallet.util.GenericUtils;
 import de.schildbach.wallet.util.WalletUtils;
-import de.schildbach.wallet.megacoin.R;
+import de.schildbach.wallet.vertcoin.R;
 
 /**
  * @author Andreas Schildbach

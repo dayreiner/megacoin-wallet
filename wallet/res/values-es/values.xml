@@ -2,10 +2,10 @@
 <resources>
 
 	<string-array name="preferences_precision_labels">
-		<item>MEC, 8 dígitos</item>
-		<item>MEC, 6 dígitos</item>
-		<item>MEC, 4 dígitos</item>
-		<item>mMEC, 2 dígitos</item>
+		<item>VTC, 8 dígitos</item>
+		<item>VTC, 6 dígitos</item>
+		<item>VTC, 4 dígitos</item>
+		<item>mVTC, 2 dígitos</item>
 	</string-array>
 
 </resources>

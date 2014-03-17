@@ -30,7 +30,7 @@ import android.widget.ArrayAdapter;
 import android.widget.TextView;
 
 
-import de.schildbach.wallet.megacoin.R;
+import de.schildbach.wallet.vertcoin.R;
 
 
 

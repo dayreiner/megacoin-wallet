@@ -1,4 +1,4 @@
-Welcome to _Megacoin Wallet_, a standalone Megacoin payment app for your Android device!
+Welcome to _Vertcoin Wallet_, a standalone Vertcoin payment app for your Android device!
 
 This project contains several sub-projects:
 

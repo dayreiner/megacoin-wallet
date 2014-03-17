@@ -37,7 +37,7 @@ import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.util.Bluetooth;
 import de.schildbach.wallet.util.Qr;
 
-import de.schildbach.wallet.megacoin.R;
+import de.schildbach.wallet.vertcoin.R;
 
 
 

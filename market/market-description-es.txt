@@ -1,19 +1,19 @@
-Consiste en una cartera de Megacoins para tu dispositivo Android. Puedes enviar Megacoins entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
+Consiste en una cartera de Vertcoins para tu dispositivo Android. Puedes enviar Vertcoins entre teléfonos haciendo explorar los códigos QR que muestra la aplicación o mediante NFC (Near Field Communication).
 
 CARACTERÍSTICAS:
 
-• Visualización del saldo de la cartera en Megacoin y en otras monedas.
-• Envío y recpción de Megacoins a través de NFC, códigos QR o URL Megacoin.
-• Libreta de direcciones para guardar las direcciones Megacoin utilizadas habitualmente.
+• Visualización del saldo de la cartera en Vertcoin y en otras monedas.
+• Envío y recpción de Vertcoins a través de NFC, códigos QR o URL Vertcoin.
+• Libreta de direcciones para guardar las direcciones Vertcoin utilizadas habitualmente.
 • Las transacciones se pueden llevar a cabo sin conexión, ejecutándose al recuperar la conexión.
-• Notificaciones de sistema para la conectividad a la red Megacoin y para la recepción de Megacoins.
-• Widget de aplicación para el saldo Megacoin.
+• Notificaciones de sistema para la conectividad a la red Vertcoin y para la recepción de Vertcoins.
+• Widget de aplicación para el saldo Vertcoin.
 
-Puedes descubrir más sobre Megacoin en
-http://www.megacoin.co.nz/
+Puedes descubrir más sobre Vertcoin en
+http://www.vertcoin.co.nz/
 
-Si quieres contribuir a Megacoin Wallet, el proyecto está localizado en
-https://github.com/HashEngineering/megacoin-wallet
+Si quieres contribuir a Vertcoin Wallet, el proyecto está localizado en
+https://github.com/HashEngineering/vertcoin-wallet
 
 Licencia: GPLv3
 ¡Úsalo bajo tu propia responsabilidad!

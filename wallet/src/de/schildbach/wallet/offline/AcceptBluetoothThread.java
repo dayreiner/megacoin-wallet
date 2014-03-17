@@ -47,7 +47,7 @@ public abstract class AcceptBluetoothThread extends Thread
 	{
 		try
 		{
-			this.listeningSocket = adapter.listenUsingInsecureRfcommWithServiceRecord("Megacoin Transaction Submission", Bluetooth.BLUETOOTH_UUID);
+			this.listeningSocket = adapter.listenUsingInsecureRfcommWithServiceRecord("Vertcoin Transaction Submission", Bluetooth.BLUETOOTH_UUID);
 		}
 		catch (final IOException x)
 		{

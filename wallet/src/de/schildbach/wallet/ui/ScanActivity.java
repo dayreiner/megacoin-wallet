@@ -60,7 +60,7 @@ import com.google.zxing.qrcode.QRCodeReader;
 
 import de.schildbach.wallet.camera.CameraManager;
 
-import de.schildbach.wallet.megacoin.R;
+import de.schildbach.wallet.vertcoin.R;
 
 
 /**

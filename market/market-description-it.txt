@@ -1,21 +1,21 @@
-Porta i tuoi Megacoin sempre con te, in tasca! Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Megacoin Wallet è la prima Megacoin app mobile, e probabilmente anche la più sicura!
+Porta i tuoi Vertcoin sempre con te, in tasca! Paghi velocemente scansionando un QR-code. Come un commerciante, riceverai i pagamenti sicuri e istantanei. Vertcoin Wallet è la prima Vertcoin app mobile, e probabilmente anche la più sicura!
 
 CARATTERISTICHE:
 
 • Non è necessaria alcuna registrazione, servizio web o cloud! Questo portafoglio è de-centralizzato e peer to peer.
-• Mostra l'ammontare di Megacoin in MEC e mMEC.
+• Mostra l'ammontare di Vertcoin in VTC e mVTC.
 • Conversione verso e dalle monete nazionali.
-• Invio e ricevimento di Megacoin tramite NFC, codici QR o URL Megacoin.
-• Rubrica degli indirizzi per usare indirizzi Megacoin regolarmente.
+• Invio e ricevimento di Vertcoin tramite NFC, codici QR o URL Vertcoin.
+• Rubrica degli indirizzi per usare indirizzi Vertcoin regolarmente.
 • Quando sei offline, puoi comunque ancora pagare via Bluetooth.
 • Sistema di notifica per le monete ricevute.
-• App Widget per il saldo Megacoin
+• App Widget per il saldo Vertcoin
 
-Puoi trovare altri dettagli su Megacoin su
-http://www.megacoin.co.nz/
+Puoi trovare altri dettagli su Vertcoin su
+http://www.vertcoin.co.nz/
 
-Se vuoi contribuire a Megacoin Wallet, il progetto si trova su
-https://github.com/HashEngineering/megacoin-wallet
+Se vuoi contribuire a Vertcoin Wallet, il progetto si trova su
+https://github.com/HashEngineering/vertcoin-wallet
 
 Licenza: GPLv3
 Usalo a tuo rischio!

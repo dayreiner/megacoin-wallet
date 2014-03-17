@@ -6,12 +6,11 @@
 			android:key="about_version"
 			android:title="Version (beta)" />
 		<Preference
-			android:summary="© 2011-2014, Andreas Schildbach\n2013-2014, HashEngineering Solutions"
-
+			android:summary="© 2011-2014, Andreas Schildbach\n© 2013-2014, HashEngineering Solutions\n© 2014, Jonathan Day-Reiner"
 			android:title="Copyright" />
         <Preference
-                android:summary="Version 0.8.996 (v0.8.996.0MEGA-beta) and above"
-                android:title="Megacoin Compatibility" />
+                android:summary="Version 0.8.6.2 and above"
+                android:title="Vertcoin Compatibility" />
 		<Preference
 			android:key="about_license"
 			android:title="@string/about_license_title" />
@@ -37,7 +36,7 @@
 			android:title="@string/about_community_googleplus_title" />
 		<Preference
 			android:key="about_author_twitter"
-			android:summary="\@bitcoin_wallet"
+			android:summary="\@dayreiner"
 			android:title="@string/about_author_twitter_title" /-->
 		<!--Preference
 			android:key="about_author_googleplus"
@@ -50,6 +49,9 @@
 		<Preference
 			android:key="about_credits_zxing"
 			android:title="@string/about_credits_zxing_title" />
+		<Preference
+			android:summary="This wallet is made possible in large part thanks to the HashEngineering Team's native KGW implementation and their effort to make a truly portable bitcoinj."
+			android:title="Kimoto Gravity Well" />
 	</PreferenceCategory>
 
 </PreferenceScreen>

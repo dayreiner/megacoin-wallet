@@ -6,8 +6,8 @@
 
 	<artifactId>wallet</artifactId>
 	<packaging>apk</packaging>
-	<version>1.01.1</version>
-	<name>Megacoin Wallet</name>
+	<version>1.01.2</version>
+	<name>Vertcoin Wallet</name>
 
 
 	<parent>
@@ -53,7 +53,7 @@
 		<!-- com.google.bitcoin.* -->
 		<dependency>
 			<groupId>com.google</groupId>
-			<artifactId>megacoinj</artifactId>
+			<artifactId>vertcoinj</artifactId>
 			<version>0.11</version>
 		</dependency>
 

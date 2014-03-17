@@ -1,22 +1,22 @@
-Tartsd a zsebedben Megacoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Megacoin Tárca az első Megacoin app és kétségkívül a legbiztonságosabb is!
+Tartsd a zsebedben Vertcoinjaidat! Egyszerűen, akár QR-kód leolvasásával is fizethetsz. Ha pedig termékeket, vagy szolgáltatást értékesítesz megbízható módon és gyorsan juthatsz a bevételeidhez. A Vertcoin Tárca az első Vertcoin app és kétségkívül a legbiztonságosabb is!
 
 ELŐNYÖK:
 
 • Nincs regisztráció és nem szükséges semmiféle háttéralkalmazás futtatása (web, vagy cloud)! Decentralizált és közvetlen (P2P).
-• A Megacoinjaid mennyiségét MEC és mMEC formában is láthatod.
+• A Vertcoinjaid mennyiségét VTC és mVTC formában is láthatod.
 • Átváltás a saját valutádra, oda-vissza.
-• Megacoin küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
-• Címtár a rendszeresen használt Megacoin címek számára.
+• Vertcoin küldése és fogadása NFC, QR-kód vagy közvetlen URL segítségével.
+• Címtár a rendszeresen használt Vertcoin címek számára.
 • Offline állapotban is fizethetsz - Bluetooth segítségével.
-• Rendszerüzenet Megacoin érkezésekor.
-• Widget a Megacoin egyenlegről.
+• Rendszerüzenet Vertcoin érkezésekor.
+• Widget a Vertcoin egyenlegről.
 >>>>>>> upstream/prod
 
-Bővebben a Megacoin-ról:
-http://www.megacoin.co.nz/
+Bővebben a Vertcoin-ról:
+http://www.vertcoin.co.nz/
 
-Ha hozzájárulnál a Megacoin Wallet projekthez:
-https://github.com/HashEngineering/megacoin-wallet
+Ha hozzájárulnál a Vertcoin Wallet projekthez:
+https://github.com/HashEngineering/vertcoin-wallet
 
 
 

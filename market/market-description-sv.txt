@@ -1,19 +1,19 @@
-Detta är en fristående Megacoin plånbok för Android. Du kan skicka Megacoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
+Detta är en fristående Vertcoin plånbok för Android. Du kan skicka Vertcoins mellan telefoner genom att scanna den QR kod som visas på skärmen. Eller använda NFC (Near Field Communication).
 
 FUNKTIONER:
 
-• Visa plånbokens värde i Megacoins och andra valutor.
-• Skicka och ta emot Megacoins via NFC, QR-koder eller en Megacoin URL.
-• Adressbok för de Megacoin adresser man använder ofta.
+• Visa plånbokens värde i Vertcoins och andra valutor.
+• Skicka och ta emot Vertcoins via NFC, QR-koder eller en Vertcoin URL.
+• Adressbok för de Vertcoin adresser man använder ofta.
 • Påbörja transaktioner medan du är offline, de utförs när du kommer online.
-• Systemnotifikationer när Megacoins skickats till dig, och när plånboken kommunicerar med nätverket.
+• Systemnotifikationer när Vertcoins skickats till dig, och när plånboken kommunicerar med nätverket.
 • App widget som visar plånbokens värde.
 
-Du kan lära dig mer om Megacoin genom att besöka
-http://www.megacoin.co.nz/
+Du kan lära dig mer om Vertcoin genom att besöka
+http://www.vertcoin.co.nz/
 
-Om du vill hjälpa till med utvecklingen av Megacoin Wallet så kan du hitta projektet här
-https://github.com/HashEngineering/megacoin-wallet
+Om du vill hjälpa till med utvecklingen av Vertcoin Wallet så kan du hitta projektet här
+https://github.com/HashEngineering/vertcoin-wallet
 
 Licens: GPLv3
 Använd på egen risk!

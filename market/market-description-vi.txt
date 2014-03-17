@@ -1,20 +1,20 @@
-Với ứng dụng này thì các Megacoin sẽ luôn trong tầm kiểm soát của riêng bạn! Bạn có thể gửi các khoản chi trả thông qua thao tác cực kỳ đơn giản đó là quét mã dạng QR hoặc bằng cách chạm hai điện thoại vào nhau (NFC). Megacoin Wallet được thiết với nguyên lý dễ dàng, tiện lợi, đáng tin tưởng, cũng như cực kỳ nhanh lẹ và đảm bảo an toàn cho người dùng.
+Với ứng dụng này thì các Vertcoin sẽ luôn trong tầm kiểm soát của riêng bạn! Bạn có thể gửi các khoản chi trả thông qua thao tác cực kỳ đơn giản đó là quét mã dạng QR hoặc bằng cách chạm hai điện thoại vào nhau (NFC). Vertcoin Wallet được thiết với nguyên lý dễ dàng, tiện lợi, đáng tin tưởng, cũng như cực kỳ nhanh lẹ và đảm bảo an toàn cho người dùng.
 
 TÍNH NĂNG:
 
 • Không cần có cloud server hoặc dịch vụ web bổ sung nào cả! Ví tiền của bạn được kết nối thông qua sự lựa chọn của bạn trong kết nối mang ngang hàng lẫn nhau.
-• Hiển thị trạng thái cân bằng tài khoản giữa Megacoin và các loại tiền tệ khác.
-• Gửi và nhận Megacoin thông qua NFC, mã dạng QR hoặc đường dẫn liên kết dạng Megacoin.
-• Sổ địa chỉ đối với các địa chỉ Megacoin thường sử dụng.
+• Hiển thị trạng thái cân bằng tài khoản giữa Vertcoin và các loại tiền tệ khác.
+• Gửi và nhận Vertcoin thông qua NFC, mã dạng QR hoặc đường dẫn liên kết dạng Vertcoin.
+• Sổ địa chỉ đối với các địa chỉ Vertcoin thường sử dụng.
 • Tham gia tiến trình giao dịch ngay khi không có kết nối mạng, và sẽ thực hiện kết nối ngay khi có mạng.
-• Thông báo trong hệ thống theo tính nhanh gọn về số lượng Megacoin nhận và gửi đi.
-• Tiện ích dành riêng cho Megacoin.
+• Thông báo trong hệ thống theo tính nhanh gọn về số lượng Vertcoin nhận và gửi đi.
+• Tiện ích dành riêng cho Vertcoin.
 
 Bạn có thể tìm hiểu thêm về digitalcoin tại
-http://www.megacoin.co.nz/
+http://www.vertcoin.co.nz/
 
-Nếu bạn có ý tưởng đóng góp cho Megacoin Wallet, hãy truy cập vào trang web
-https://github.com/HashEngineering/megacoin-wallet
+Nếu bạn có ý tưởng đóng góp cho Vertcoin Wallet, hãy truy cập vào trang web
+https://github.com/HashEngineering/vertcoin-wallet
 
 Giấy phép: GPLv3
 Sử dụng với sự cẩn trọng của riêng bạn!

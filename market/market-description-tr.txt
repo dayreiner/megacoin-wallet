@@ -1,20 +1,20 @@
-Megacoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Megacoin cüzdanı ilk mobil Megacoin uygulamasıdır ve muhtemelen en güvenli Megacoin uygulamasıdır!
+Vertcoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak çabuk ödeme yapabilirsiniz. Bir tüccar olarak ödemeleri güvenilir ve anında alabilirsiniz. Vertcoin cüzdanı ilk mobil Vertcoin uygulamasıdır ve muhtemelen en güvenli Vertcoin uygulamasıdır!
 
 İŞLEVLERİ:
 • Hiçbir oturuma, web ya da bulut hizmetine gerek yoktur. Bu cüzdan merkezsiz ve eşten eşedir.
-• Megacoin meblağlarının BTC ve mBTC olarak gösterilmesi.
+• Vertcoin meblağlarının BTC ve mBTC olarak gösterilmesi.
 • Dövizlere ve dövizlerden dönüştürme.
-• NFC, QR kodu veya Megacoin bağlantıları ile Megacoin gönderir ve alır.
-• Sık kullanılan Megacoin adresleri için adres defteri içerir.
+• NFC, QR kodu veya Vertcoin bağlantıları ile Vertcoin gönderir ve alır.
+• Sık kullanılan Vertcoin adresleri için adres defteri içerir.
 • Çevrimdışı olduğunuzda Bluetooth vasıtasıyla ödemeler.
-• Alınan Megacoin'ler için sistem bildirimleri.
-• Megacoin bakiyesini görüntüleyen widget.
+• Alınan Vertcoin'ler için sistem bildirimleri.
+• Vertcoin bakiyesini görüntüleyen widget.
 
-Megacoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
-http://www.megacoin.co.nz/
+Vertcoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
+http://www.vertcoin.co.nz/
 
-Megacoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
-https://github.com/HashEngineering/megacoin-wallet
+Vertcoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
+https://github.com/HashEngineering/vertcoin-wallet
 
 Lisans: GPLv3
 Tüm riski siz üstlenmiş olursunuz.

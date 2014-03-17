@@ -1,19 +1,19 @@
-Samodzielny portfel Megacoin dla Twojego urządzenia Android. Możesz wysyłać Megacoin pomiędzy telefonami skanując kod QR, który jest wyświetlany przez aplikacje, lub przez NFC (Near Field Communication).
+Samodzielny portfel Vertcoin dla Twojego urządzenia Android. Możesz wysyłać Vertcoin pomiędzy telefonami skanując kod QR, który jest wyświetlany przez aplikacje, lub przez NFC (Near Field Communication).
 
 FUNKCJE:
 
-• Wyświetlanie stanu konta portfela w Megacoin i rożnych innych walutach.
-• Wysyłanie i odbieranie Megacoin przez NFC, kod QR albo Megacoin URL.
-• Książka adresowa dla regularnie używanych adresów Megacoin.
+• Wyświetlanie stanu konta portfela w Vertcoin i rożnych innych walutach.
+• Wysyłanie i odbieranie Vertcoin przez NFC, kod QR albo Vertcoin URL.
+• Książka adresowa dla regularnie używanych adresów Vertcoin.
 • Możliwość dodania transakcji offline, wykonywanych po połączeniu z siecią.
-• Notyfikacje systemowe o połączeniu z siecią Megacoin i otrzymanych monetach.
-• Widget na stan konta Megacoin.
+• Notyfikacje systemowe o połączeniu z siecią Vertcoin i otrzymanych monetach.
+• Widget na stan konta Vertcoin.
 
-Więcej o Megacoin dowiesz się pod adresem:
-http://www.megacoin.co.nz/
+Więcej o Vertcoin dowiesz się pod adresem:
+http://www.vertcoin.co.nz/
 
-Jeżeli chcesz wesprzeć Megacoin Wallet, kody źródłowe projektu znajdują się pod adresem:
-https://github.com/HashEngineering/megacoin-wallet
+Jeżeli chcesz wesprzeć Vertcoin Wallet, kody źródłowe projektu znajdują się pod adresem:
+https://github.com/HashEngineering/vertcoin-wallet
 
 Licencja: GPLv3
 Używanie jedynie na własne ryzyko!
