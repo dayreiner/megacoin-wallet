@@ -189,6 +189,7 @@
 	<string name="about_credits_icon_title">"coinme.ca"</string>
     <string name="about_credits_website_title">"Vertcoin Website"</string>
     <string name="about_credits_forum_title">"Vertcoin Forum"</string>
+    <string name="about_credits_reddit_title">"Join the Vertcoin Subreddit"</string>
 
 	<string name="about_community_googleplus_title">Google+ Community</string>
 	<string name="about_community_googleplus_summary">Discussions about the app</string>

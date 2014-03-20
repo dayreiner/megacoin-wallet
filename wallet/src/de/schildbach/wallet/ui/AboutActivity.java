@@ -49,6 +49,7 @@ public final class AboutActivity extends SherlockPreferenceActivity
 	private static final String KEY_ABOUT_MARKET_PUBLISHER = "about_market_publisher";
     private static final String KEY_ABOUT_CREDITS_WEBSITE = "about_credits_website";
     private static final String KEY_ABOUT_CREDITS_FORUM = "about_credits_forum";
+    private static final String KEY_ABOUT_CREDITS_REDDIT = "about_credits_reddit";
  	private static final String KEY_ABOUT_CREDITS_BITCOINJ = "about_credits_bitcoinj";
 	private static final String KEY_ABOUT_CREDITS_ZXING = "about_credits_zxing";
 	private static final String KEY_ABOUT_CREDITS_ICON = "about_credits_icon";
@@ -78,6 +79,7 @@ public final class AboutActivity extends SherlockPreferenceActivity
 		//findPreference(KEY_ABOUT_MARKET_PUBLISHER).setSummary(Constants.MARKET_PUBLISHER_URL);
         findPreference(KEY_ABOUT_CREDITS_WEBSITE).setSummary(Constants.CREDITS_WEBSITE_URL);
         findPreference(KEY_ABOUT_CREDITS_FORUM).setSummary(Constants.CREDITS_FORUM_URL);
+        findPreference(KEY_ABOUT_CREDITS_REDDIT).setSummary(Constants.CREDITS_REDDIT_URL);
 
 	}
 
@@ -130,6 +132,11 @@ public final class AboutActivity extends SherlockPreferenceActivity
         else if (KEY_ABOUT_CREDITS_FORUM.equals(key))
         {
             startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.CREDITS_FORUM_URL)));
+            finish();
+        }
+        else if (KEY_ABOUT_CREDITS_REDDIT.equals(key))
+        {
+            startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(Constants.CREDITS_REDDIT_URL)));
             finish();
         }
 		else if (KEY_ABOUT_AUTHOR_TWITTER.equals(key))

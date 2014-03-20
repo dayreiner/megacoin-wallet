@@ -100,6 +100,7 @@ public class Constants
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
     public static final String CREDITS_WEBSITE_URL = "http://vertcoin.org";
     public static final String CREDITS_FORUM_URL = "http://vertcoinforum.com";
+    public static final String CREDITS_REDDIT_URL = "http://reddit.com/r/vertcoin";
 	public static final String CREDITS_ICON_URL = "http://coinme.ca";
 
 	public static final String AUTHOR_TWITTER_URL = "https://twitter.com/#!/dayreiner";
