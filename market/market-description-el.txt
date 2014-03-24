@@ -10,10 +10,10 @@
 • App widget για το υπόλοιπο των Vertcoin.
 
 Μπορείτε να βρείτε περισσότερα για τη χρήση Vertcoin στο
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Αν θέλετε να συμβάλει στη τη χρήση του Vertcoin Wallet, το έργο βρίσκεται εδώ:
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Άδεια: GPLv3
 Χρησιμοποιήστε με δική σας ευθύνη!

@@ -12,10 +12,10 @@ CARATTERISTICHE:
 • App Widget per il saldo Vertcoin
 
 Puoi trovare altri dettagli su Vertcoin su
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Se vuoi contribuire a Vertcoin Wallet, il progetto si trova su
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Licenza: GPLv3
 Usalo a tuo rischio!

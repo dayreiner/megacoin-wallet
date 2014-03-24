@@ -13,10 +13,10 @@ FONCTIONS :
 • Widget affichant le solde Vertcoin.
 
 Vous pouvez en apprendre plus au sujet de Vertcoin sur
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Si vous voulez contribuer à Vertcoin Wallet, le projet se trouve sur
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Licence : GPLv3
 Utilisez à vos propres risques !

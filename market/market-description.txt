@@ -12,10 +12,10 @@ FEATURES:
 • App widget for Vertcoin balance.
 
 You can find more about Vertcoin at
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 If you want to contribute to Vertcoin Wallet, the project is located at
-https://github.com/HashEngineering/Vertcoin-wallet
+https://github.com/dayreiner/Vertcoin-wallet
 
 License: GPLv3
 Use at your own risk!

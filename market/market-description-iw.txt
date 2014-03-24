@@ -11,10 +11,10 @@ FEATURES:
 • וידגט להצגת יתרה.
 
 בהתקנה ראשונה עלול להיראות מסך לבן לזמן מה, הדבר תקין.
-לפרטים נוספים : http://www.vertcoin.co.nz/
+לפרטים נוספים : http://www.vertcoin.org/
 
 הארנק הוא פרויקט בקוד פתוח בגוגל, אם ברצונך לתרום:
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 רישיון : GPLv3
 שים לב: השימוש הוא באחריות המשתמש.

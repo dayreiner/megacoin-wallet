@@ -11,10 +11,10 @@ Vertcoin'leriniz daima cebinizde sizinle olsun! Herhangi bir QR kodunu okuyarak 
 • Vertcoin bakiyesini görüntüleyen widget.
 
 Vertcoin hakkında daha fazla bilgi için şu siteyi ziyaret edebilirsiniz:
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Vertcoin Wallet uygulamasına katkıda bulunmak istiyorsanız proje sayfasını ziyaret ediniz:
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Lisans: GPLv3
 Tüm riski siz üstlenmiş olursunuz.

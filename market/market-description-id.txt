@@ -11,10 +11,10 @@ FITUR:
 • Widget Apl untuk saldo Vertcoin.
 
 Anda dapat mengetahui lebih mengenai Vertcoin di
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Jika Anda ingin berkontribusi kepada Vertcoin Wallet, proyeknya berada di
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Lisensi: GPLv3
 Gunakan dengan resiko Anda!

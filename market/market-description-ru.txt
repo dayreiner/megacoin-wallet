@@ -12,10 +12,10 @@
 • Виджет для отображения баланса Vertcoin.
 
 Вы можете узнать больше о Vertcoin на
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Если вы хотите помочь бумажнику Vertcoin, проект располагается по адресу
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Лицензия: GPLv3
 Используйте на свой риск!

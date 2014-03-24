@@ -13,10 +13,10 @@ ELŐNYÖK:
 >>>>>>> upstream/prod
 
 Bővebben a Vertcoin-ról:
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Ha hozzájárulnál a Vertcoin Wallet projekthez:
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 
 

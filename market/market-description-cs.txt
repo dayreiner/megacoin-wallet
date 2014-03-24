@@ -10,10 +10,10 @@ VLASTNOSTI:
 • Widget s celkovým zůstatkem.
 
 Více informací o Vertcoinech
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Pokud chcete přispět do projektu Vertcoin Wallet, naleznete jej na adrese
-https://github.com/HashEngineering/Vertcoin-wallet
+https://github.com/dayreiner/Vertcoin-wallet
 
 License: GPLv3
 Použití pouze na vlastní riziko!

@@ -10,10 +10,10 @@ FUNKCJE:
 • Widget na stan konta Vertcoin.
 
 Więcej o Vertcoin dowiesz się pod adresem:
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Jeżeli chcesz wesprzeć Vertcoin Wallet, kody źródłowe projektu znajdują się pod adresem:
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Licencja: GPLv3
 Używanie jedynie na własne ryzyko!

@@ -11,10 +11,10 @@ TÍNH NĂNG:
 • Tiện ích dành riêng cho Vertcoin.
 
 Bạn có thể tìm hiểu thêm về digitalcoin tại
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Nếu bạn có ý tưởng đóng góp cho Vertcoin Wallet, hãy truy cập vào trang web
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Giấy phép: GPLv3
 Sử dụng với sự cẩn trọng của riêng bạn!

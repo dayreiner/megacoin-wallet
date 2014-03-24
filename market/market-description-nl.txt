@@ -10,10 +10,10 @@ FUNCTIES:
 • Widget voor Vertcoin saldo.
 
 Voor meer informatie over Vertcoin kunt u terecht op
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Als u een bijdrage wil leveren aan Vertcoin Wallet, het project is te vinden op
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Licentie: GPLv3
 Gebruik op eigen risico!

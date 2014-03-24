@@ -10,10 +10,10 @@ FUNKTIONER:
 • App widget som visar plånbokens värde.
 
 Du kan lära dig mer om Vertcoin genom att besöka
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Om du vill hjälpa till med utvecklingen av Vertcoin Wallet så kan du hitta projektet här
-https://github.com/HashEngineering/vertcoin-wallet
+https://github.com/dayreiner/vertcoin-wallet
 
 Licens: GPLv3
 Använd på egen risk!

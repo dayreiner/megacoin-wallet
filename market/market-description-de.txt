@@ -12,10 +12,10 @@ FEATURES:
 • App-Widget zeigt Vertcoin-Guthaben an.
 
 Weitere Informationen zu Vertcoin findest Du unter
-http://www.vertcoin.co.nz/
+http://www.vertcoin.org/
 
 Wenn Du zu Vertcoin Wallet beitragen willst, das Projekt befindet sich auf
-https://github.com/HashEngineering/Vertcoin-wallet
+https://github.com/dayreiner/Vertcoin-wallet
 
 Lizenz: GPLv3
 Nutzung auf eigene Gefahr!
