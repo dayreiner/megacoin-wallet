@@ -4,7 +4,7 @@
 	<PreferenceCategory android:title="@string/about_title" >
 		<Preference
 			android:key="about_version"
-			android:title="Version (beta)" />
+			android:title="Version" />
 		<Preference
 			android:summary="© 2011-2014, Andreas Schildbach\n© 2013-2014, HashEngineering Solutions\n© 2014, Jonathan Day-Reiner / coinme.ca"
 			android:title="Copyright" />
