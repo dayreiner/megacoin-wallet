@@ -462,7 +462,7 @@ public class ExchangeRatesProvider extends ContentProvider
 								{
                                     double rateForBTC = Double.parseDouble(rateStr);
 
-                                    rateStr = String.format("%.8f", rateForBTC * btcRate);
+                                    rateStr = String.format(Locale.US, "%.8f", rateForBTC * btcRate); // Avoid users default locale (potential decimal comma)
 
 									final BigInteger rate = GenericUtils.toNanoCoins(rateStr, 0);
 
