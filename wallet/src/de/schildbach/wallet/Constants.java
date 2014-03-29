@@ -95,7 +95,7 @@ public class Constants
 	public static final String LICENSE_URL = "http://www.gnu.org/licenses/gpl-3.0.txt";
     public static final String FORKED_FROM_SOURCE = "based on bitcoin-wallet 3.29\n";
 	public static final String SOURCE_URL = "https://github.com/dayreiner/" + CoinDefinition.coinName + "-wallet";
-	public static final String BINARY_URL = "http://android.vtc.li/download/";
+	public static final String BINARY_URL = "http://android.vtc.li";
 	public static final String CREDITS_BITCOINJ_URL = "https://github.com/dayreiner/" + CoinDefinition.coinName + "j";
 	public static final String CREDITS_ZXING_URL = "http://code.google.com/p/zxing/";
     public static final String CREDITS_WEBSITE_URL = "http://vertcoin.org";
@@ -112,7 +112,7 @@ public class Constants
 	public static final String WEBMARKET_APP_URL = "https://play.google.com/store/apps/details?id=%s";
 	public static final String MARKET_PUBLISHER_URL = "market://search?q=pub:\"coinme.ca\"";
 
-	public static final String VERSION_URL = "http://android.coinme.ca/version";
+	public static final String VERSION_URL = "http://android.vtc.li/version";
 	public static final int HTTP_TIMEOUT_MS = 15 * (int) DateUtils.SECOND_IN_MILLIS;
 
 	public static final String PREFS_KEY_LAST_VERSION = "last_version";
