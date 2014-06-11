@@ -31,6 +31,11 @@
 			android:key="data_usage"
 			android:summary="@string/preferences_data_usage_summary"
 			android:title="@string/preferences_data_usage_title" />
+
+        <Preference
+            android:key="sync_on_boot"
+            android:summary="@string/preferences_start_on_boot_summary"
+            android:title="@string/preferences_start_on_boot_title" />
 	</PreferenceCategory>
 	<PreferenceCategory android:title="@string/preferences_category_diagnostics" >
 		<Preference

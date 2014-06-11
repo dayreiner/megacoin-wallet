@@ -78,6 +78,7 @@ import com.actionbarsherlock.view.MenuItem;
 
 import de.schildbach.wallet.Constants;
 import de.schildbach.wallet.WalletApplication;
+import de.schildbach.wallet.service.BlockchainServiceBootstrapper;
 import de.schildbach.wallet.ui.InputParser.BinaryInputParser;
 import de.schildbach.wallet.ui.InputParser.StringInputParser;
 import de.schildbach.wallet.util.CrashReporter;
@@ -288,6 +289,11 @@ public final class WalletActivity extends AbstractOnDemandServiceActivity
 			case R.id.wallet_options_help:
 				HelpDialogFragment.page(getSupportFragmentManager(), "help");
 				return true;
+
+            case R.id.wallet_options_exit:
+                getWalletApplication().stopBlockchainService();
+                finish();
+                return true;
 		}
 
 		return super.onOptionsItemSelected(item);
