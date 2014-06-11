@@ -56,6 +56,7 @@ public final class PreferencesActivity extends SherlockPreferenceActivity implem
 	private WalletApplication application;
 	private Preference trustedPeerPreference;
 	private Preference trustedPeerOnlyPreference;
+    private SharedPreferences prefs;
 
 	private static final String PREFS_KEY_REPORT_ISSUE = "report_issue";
 	private static final String PREFS_KEY_INITIATE_RESET = "initiate_reset";
@@ -90,7 +91,7 @@ public final class PreferencesActivity extends SherlockPreferenceActivity implem
 		final ActionBar actionBar = getSupportActionBar();
 		actionBar.setDisplayHomeAsUpEnabled(true);
 
-		final SharedPreferences prefs = getPreferenceManager().getSharedPreferences();
+        prefs = getPreferenceManager().getSharedPreferences();
 		final String trustedPeer = prefs.getString(Constants.PREFS_KEY_TRUSTED_PEER, "").trim();
 		updateTrustedPeer(trustedPeer);
 	}
@@ -191,6 +192,33 @@ public final class PreferencesActivity extends SherlockPreferenceActivity implem
 
 			return true;
 		}
+        else if(Constants.PREFS_KEY_SYNC_ON_BOOT.equals(key)){
+
+            final AlertDialog.Builder dialog = new AlertDialog.Builder(this);
+            dialog.setTitle(R.string.preferences_sync_on_boot_title);
+            dialog.setMessage(R.string.preferences_sync_on_boot_dialog_message);
+            dialog.setPositiveButton(R.string.preferences_sync_on_boot_dialog_positive, new OnClickListener()
+            {
+                @Override
+                public void onClick(final DialogInterface dialog, final int which)
+                {
+                    prefs.edit().putBoolean(Constants.PREFS_KEY_SYNC_ON_BOOT, true);
+
+                    finish();
+                }
+            });
+            dialog.setNegativeButton(R.string.preferences_sync_on_boot_dialog_negative, new OnClickListener()
+            {
+                @Override
+                public void onClick(final DialogInterface dialog, final int which)
+                {
+                    prefs.edit().putBoolean(Constants.PREFS_KEY_SYNC_ON_BOOT, false);
+
+                    finish();
+                }
+            });
+            dialog.show();
+        }
 
 		return false;
 	}

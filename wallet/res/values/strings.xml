@@ -164,12 +164,19 @@
 	<string name="preferences_trusted_peer_only_summary">Prevents connecting to any peers besides the trusted peer.</string>
 	<string name="preferences_data_usage_title">Data usage</string>
 	<string name="preferences_data_usage_summary">Show options to restrict data usage on mobile networks.</string>
+    <string name="preferences_start_on_boot_title">Blockchain Boot Sync</string>
+    <string name="preferences_start_on_boot_summary">Start blockchain sync service on boot?</string>
 	<string name="preferences_report_issue_title">Report Issue</string>
 	<string name="preferences_report_issue_summary">Collect information about your issue and email your report to the developers.</string>
 	<string name="preferences_initiate_reset_title">Reset Blockchain</string>
 	<string name="preferences_initiate_reset_summary">Reset blockchain, transactions and wallet balance. Replay will take a while.</string>
 	<string name="preferences_initiate_reset_dialog_message">Would you like to reset and replay the blockchain?\n\nThis will temporarily hide your wallet balance and remove transactions. Both will recover as blockchain sync progresses.</string>
 	<string name="preferences_initiate_reset_dialog_positive">Reset</string>
+    <string name="preferences_sync_on_boot_title">Sync on Boot</string>
+    <string name="preferences_sync_on_boot_summary">Would you like to sync the blockchain when your device boots?</string>
+    <string name="preferences_sync_on_boot_dialog_message">Disabling this may cause a long delay when starting the application because you will need to catch up to the latest block.</string>
+    <string name="preferences_sync_on_boot_dialog_positive">Enable</string>
+    <string name="preferences_sync_on_boot_dialog_negative">Disable</string>
 	<string name="report_issue_dialog_title_issue">Report issue</string>
 	<string name="report_issue_dialog_title_crash">Previous crash detected</string>
 	<string name="report_issue_dialog_message_issue">Please describe your issue precisely enough so a developer can reproduce.</string>
@@ -209,6 +216,7 @@
 	<string name="button_dismiss">Dismiss</string>
 	<string name="button_cancel">Cancel</string>
 	<string name="button_help">Help</string>
+    <string name="button_exit">Exit</string>
 	<string name="button_add">Add</string>
 	<string name="button_delete">Delete</string>
 	<string name="button_edit">Edit</string>
